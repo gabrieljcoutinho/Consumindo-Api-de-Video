@@ -10,7 +10,7 @@ JSON Server started on PORT :3000
 Press CTRL-C to stop
 Watching projeto-vidflow-main/backend/videos.json...
 
-( ˶ˆ ᗜ ˆ˵ )
+( ˶ˆ ᗜ ˆ˵ ) 
 
 Index:
 http://localhost:3000/
